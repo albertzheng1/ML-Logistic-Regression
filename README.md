@@ -1,7 +1,7 @@
 # ML-Logistic-Regression
 This code demonstrates the basics of machine learning by implementing algorithms for logistic regression of multiple variables. Given a training set of data with any number of features, it can learn parameters that fit any nonlinear function to the data and make predictions about discrete values. This is useful for predicting categories or groups that data belongs in, such as whether or not an NBA team will win their next game. While this code can work for any number of variables, logistic regression is best used when there are only two features because the data can be easily plotted, and because neural networks are better "in general" for data sets with a high number of features.
 
-**Steps to implement linear regression using this code:**
+**Steps to implement logistic regression using this code:**
 1. Obtain raw initial data from somewhere and put it into a csv file.
 2. Modify the data by adding the x_0 feature. Also, feature normalize the data if necessary. Note that this code separates the initial X and feature normalized X into two distinct variables.
 3. Choose a learning rate by plotting the speed of convergence of the error function with respect to the number of iterations.
