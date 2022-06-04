@@ -40,6 +40,6 @@ Testing different learning rates for data set 2_1
 
 Plotting decision boundary to predict data set 2_1 using the learned parameters
 
+![Figure_9](https://user-images.githubusercontent.com/106856325/172012526-531efa2b-3c7a-46a7-901d-26a6cc1b192a.png)
 
-
-**Accuracy for data set 2_1: **
+**Accuracy for data set 2_1: 82.20338983050848%**
