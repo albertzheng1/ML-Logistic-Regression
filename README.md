@@ -1,2 +1,2 @@
-# ML-Using-Logistic-Regression
+# ML-Logistic-Regression
 Implementing machine learning using logistic regression algorithms.
